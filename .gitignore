@@ -130,3 +130,6 @@ dmypy.json
 
 # keys
 keys.py
+
+# data crawling
+data/
